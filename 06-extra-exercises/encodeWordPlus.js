@@ -45,3 +45,4 @@
     return scaracter
   }
   encode('Caminante, son tus huellas el camino y nada más;Caminante, no hay camino,se hace camino al andar.Al andar se hace el camino,y al volver la vista atrás se ve la senda que nun case ha de volver a pisar. Caminante no hay camino sino estelas en la mar.')
+  // Prova
