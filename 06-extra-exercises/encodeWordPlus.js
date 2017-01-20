@@ -24,18 +24,15 @@
         scaracter = caracter.replace(caracter, '7')
         // console.log(caracter)
         return scaracter
-      }
-      if (caracter === 'a') {
+      } else if (caracter === 'a') {
         scaracter = caracter.replace(caracter, '4')
         // console.log(caracter)
         return scaracter
-      }
-      if (caracter === 's') {
+      } else if (caracter === 's') {
         scaracter = caracter.replace(caracter, '5')
         // console.log(caracter)
         return scaracter
-      }
-      if (caracter === 'o') {
+      } else if (caracter === 'o') {
         scaracter = caracter.replace(caracter, '0')
         // console.log(caracter)
         return scaracter
